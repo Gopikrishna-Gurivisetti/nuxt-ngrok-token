@@ -1,6 +1,6 @@
 <template>
   <div>
-    Nuxt module playground!
+    Nuxt3 Ngrok Module!
   </div>
 </template>
 
