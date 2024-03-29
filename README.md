@@ -83,7 +83,7 @@ npm i ngrok-module
 export default defineNuxtConfig({
 modules: ["ngrok-module"],
 ngrok: {
-token: 'NGROK_TOKEN...',
+token: 'YOUR_NGROK_TOKEN...',
 },
 });
 

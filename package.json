@@ -1,8 +1,8 @@
 {
   "name": "ngrok-module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My new Nuxt3 ngrok module",
-  "repository": "your-org/my-module",
+  "repository": "https://github.com/Gopikrishna-Gurivisetti/nuxt-ngrok-token.git",
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -20,7 +20,8 @@
   "keywords": [
     "ngrok",
     "Nuxt",
-    "Nuxt3"
+    "Nuxt3",
+    "ngrok token"
   ],
   "scripts": {
     "prepack": "nuxt-module-build build",
