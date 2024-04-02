@@ -1,6 +1,6 @@
 {
   "name": "ngrok-module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "My new Nuxt3 ngrok module",
   "repository": "https://github.com/Gopikrishna-Gurivisetti/nuxt-ngrok-token.git",
   "license": "MIT",
